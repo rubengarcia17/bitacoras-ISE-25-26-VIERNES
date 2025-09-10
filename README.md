@@ -2,7 +2,7 @@
 
 Bienvenidos a la asignatura de **Ingeniería de Servidores (ISE)** del curso 25/26. Este repositorio tiene como objetivo gestionar las bitácoras individuales de los alumnos mediante enlaces a sus repositorios privados.
 
-Cada alumno debe crear un repositorio (_**privado**_) en GitHub llamado `practicas-ISE` (atención con minúsculas y mayúsculas) y agregar al profesor como colaborador. Posteriormente, cada alumno deberá realizar un **pull request** (PR) a este repositorio (`bitacoras-ISE-24-25`) para agregar un enlace a su bitácora individual.
+Cada alumno debe crear un repositorio (_**privado**_) en GitHub llamado `practicas-ISE` (atención con minúsculas y mayúsculas) y agregar al profesor como colaborador. Posteriormente, cada alumno deberá realizar un **pull request** (PR) a este repositorio (`bitacoras-ISE-25-26`) para agregar un enlace a su bitácora individual.
 
 ## Instrucciones detalladas
 
