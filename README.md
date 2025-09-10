@@ -26,7 +26,7 @@ Sigue los pasos a continuación para añadir tu bitácora a este repositorio uti
    - [Nombre de Usuario del Alumno](https://github.com/tu-usuario/practicas-ISE)
    ```
 
-Puedes mirar como ejemplo el fichero `B1/juanluck.md` que ya ha creado el profesor y que contiene:
+Puedes mirar como ejemplo el fichero [B1/juanluck.md](https://github.com/juanluck/bitacoras-ISE-25-26/blob/main/B1/juanluck.md) que ya ha creado el profesor y que contiene:
    ```markdown
    - [juanluck](https://github.com/juanluck/practicas-ISE)
    ```
