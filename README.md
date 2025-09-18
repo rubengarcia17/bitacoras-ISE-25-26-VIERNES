@@ -10,11 +10,11 @@ Sigue los pasos a continuación para añadir tu bitácora a este repositorio uti
 
 ### 1. Crea tu repositorio privado en GitHub
 1. Inicia sesión en tu cuenta de GitHub y crea un repositorio (_**privado**_) llamado **`practicas-ISE`**.
-2. Dentro de tu repositorio, crea inicialmente un archivo **`README.md`** donde llevarás un registro de tu progreso en las prácticas de la asignatura. Puedes servirte inicialmente de la plantilla que ha creado el profesor en `https://github.com/juanluck/practicas-ISE/`
-3. Invita al profesor como colaborador a tu repositorio privado para que pueda revisarlo. El usuario del profesor en GitHub es: `juanluck`.
+2. Dentro de tu repositorio, crea inicialmente un archivo **`README.md`** donde llevarás un registro de tu progreso en las prácticas de la asignatura. Puedes servirte inicialmente de la plantilla que ha creado el profesor en `https://github.com/juanheliosg/bitacoras-ISE-25-26-VIERNES/`
+3. Invita al profesor como colaborador a tu repositorio privado para que pueda revisarlo. El usuario del profesor en GitHub es: `juanheliosg`.
 
 ### 2. Haz un **Fork** del repositorio del profesor
-1. Ve a la página del repositorio del profesor: `https://github.com/juanluck/bitacoras-ISE-25-26`.
+1. Ve a la página del repositorio del profesor: `https://github.com/juanheliosg/bitacoras-ISE-25-26-VIERNES`.
 2. Haz clic en el botón **Fork** en la esquina superior derecha. Esto creará una copia del repositorio en tu propia cuenta de GitHub.
 
 ### 3. En el fork, crea un fichero B1/tu_usuario.md desde la web de GitHub
@@ -46,7 +46,7 @@ Míralo y asegúrate que tu fichero `B1/tu_usuario.md` sigue la misma sintaxis.
 1. Después de confirmar los cambios, ve a la pestaña **Pull Requests** en el repositorio de tu fork (copia).
 2. Haz clic en el botón verde **New Pull Request**.
 3. Asegúrate de que GitHub esté comparando tu fork con el repositorio original del profesor. Debería mostrar algo como:
--  **base repository**: `github-username-del-profesor/bitacoras-ISE-25-26`
+-  **base repository**: `github-username-del-profesor/bitacoras-ISE-25-26-VIERNES`
 -  **head repository**: `tu-usuario/bitacoras-ISE-25-26`
 4. Revisa los cambios propuestos para asegurarte de que todo esté correcto.
 5. Haz clic en **Create Pull Request**.
