@@ -1,1 +1,1 @@
-[paquitoddd] https://github.com/PaquitoDDD/practicas-ISE
+[paquito] https://github.com/PaquitoDDD/practicas-ISE
